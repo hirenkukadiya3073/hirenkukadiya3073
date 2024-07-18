@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirenkukaya3073&label=Profile%20views&color=0e75b6&style=flat" alt="hirenkukaya3073" /> </p>
 
-- 🌱 I’m currently **exploring the realms of software engineering, cybersecurity, and machine learning.**
+- 🌱 I’m currently **exploring the realms of software engineering and cybersecurity**
 
-- 📝 I regularly write articles on [https://hacktechbyhk.wordpress.com/](https://hacktechbyhk.wordpress.com/)
+- 📝 I write articles on [https://hacktechbyhk.wordpress.com/](https://hacktechbyhk.wordpress.com/)
 
 - 📫 How to reach me **kukadiyahiren45@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zZsf4wgNxNrXjMPD9JpnYgJi83YctjvK/view?usp=drive_link](https://drive.google.com/file/d/1zZsf4wgNxNrXjMPD9JpnYgJi83YctjvK/view?usp=drive_link)
+- 📄 My Resume [https://drive.google.com/file/d/1zZsf4wgNxNrXjMPD9JpnYgJi83YctjvK/view?usp=drive_link](https://drive.google.com/file/d/1zZsf4wgNxNrXjMPD9JpnYgJi83YctjvK/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
