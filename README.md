@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirenkukaya3073&label=Profile%20views&color=0e75b6&style=flat" alt="hirenkukaya3073" /> </p>
 
-- 🌱 I’m currently **exploring the realms of software engineering and cybersecurity**
+- 🌱 I’m currently **exploring the realms of software engineering and cybersecurity.**
 
 - 📝 I write articles on [https://hacktechbyhk.wordpress.com/](https://hacktechbyhk.wordpress.com/)
 
